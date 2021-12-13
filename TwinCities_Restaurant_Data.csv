@@ -1,0 +1,216 @@
+Restaurant Name,Restaurant URL,Review Stars,Minneapolis,St. Paul,Restaurant Type,Chain or Local,Brunch/Breakfast,Lunch,Dinner,Cuisine Type
+Chipotle,https://www.chipotle.com/,4,Y,Y,Fast-Casual,Chain,N,Y,Y,Latin
+Jersey Mike's,https://www.jerseymikes.com/,4.5,Y,Y,Fast-Casual,Chain,N,Y,Y,American
+Five Guys,https://www.fiveguys.com/,4.5,Y,Y,Fast-Casual,Chain,N,Y,Y,American
+Panda Express,https://www.pandaexpress.com/,3.5,Y,Y,Fast-Casual,Chain,N,Y,Y,Asian
+Leaann-Chin,https://www.leeannchin.com/,4,Y,Y,Fast-Casual,Chain,N,Y,Y,Asian
+Smashburger,https://smashburger.com/,4,Y,Y,Fast-Casual,Chain,N,Y,Y,American
+Shake Shack,https://shakeshack.com/home,4,Y,Y,Fast-Casual,Chain,N,Y,Y,American
+Culvers,https://www.culvers.com/,4.5,Y,Y,Fast-Casual,Chain,N,Y,Y,American
+Chick-Fil-A,https://www.chick-fil-a.com/,4.5,Y,Y,Fast-Casual,Chain,Y,Y,Y,American
+MyBurger,https://www.myburgerusa.com/,4.5,Y,Y,Fast-Casual,Chain,N,Y,Y,American
+World Street Kitchen,https://www.eatwsk.com/,4.6,Y,N,Fast-Casual,Local,N,Y,Y,Asian
+Rusty Taco,https://rustytaco.com/,4.5,Y,Y,Fast-Casual,Local,Y,Y,Y,Latin
+QDOBA,https://www.qdoba.com/,3.5,Y,Y,Fast-Casual,Chain,Y,Y,Y,Latin
+Crisp and Green,https://crispandgreen.com/,4.8,Y,Y,Fast-Casual,Local,Y,Y,Y,Health
+Freshii,https://www.freshii.com/ca/en-ca/home,4.2,Y,Y,Fast-Casual,Local,Y,Y,Y,Health
+Agra Culture,https://www.agra-culture.com/,4,Y,Y,Fast-Casual,Local,Y,Y,Y,Health
+Green and the Grain,https://www.greenandthegrain.com/menu/,4.6,Y,N,Fast-Casual,Local,N,Y,Y,Health
+Hot Indian,https://www.hotindianfoods.com/,4.2,Y,N,Fast-Casual,Local,N,Y,Y,Asian
+Piada Italian Kitchen,https://mypiada.com/menu,4.3,Y,N,Fast-Casual,Local,Y,Y,Y,Italian
+Naf Naf Grill,https://www.nafnafgrill.com/,4.5,Y,Y,Fast-Casual,Chain,N,Y,Y,Mediterranean
+Roti,https://roti.com/,4.5,Y,N,Fast-Casual,Chain,N,Y,Y,Mediterranean
+Bread and Pickle,http://www.breadandpickle.com/,4.2,Y,N,Fast-Casual,Local,Y,Y,Y,American
+Caf� Zupas,https://cafezupas.com/,4.5,Y,Y,Fast-Casual,Chain,Y,Y,Y,Health
+Wrecktangle Pizza,https://wrecktanglepizza.com/menu/,4.9,Y,N,Fast-Casual,Local,N,Y,Y,Italian
+Soul Bowl,https://www.soulbowlmn.com/,4.6,Y,N,Fast-Casual,Local,N,Y,Y,Asian
+Andrea Pizza,https://www.andreapizza.com/menu,4.6,Y,N,Fast-Casual,Local,N,Y,Y,Italian
+Blaze Pizza,https://www.blazepizza.com/,4.4,Y,N,Fast-Casual,Chain,N,Y,Y,Italian
+Nashville Coop,https://www.nashvillecoop.com/,4.6,N,Y,Fast-Casual,Local,N,Y,Y,American
+The Naughty Greek,https://www.thenaughtygreek.com/,4.5,Y,Y,Fast-Casual,Local,N,Y,Y,Mediterranean
+Brasa Premium Rotisserie,https://www.brasa.us/,4.6,Y,Y,Fast-Casual,Local,N,Y,Y,American
+Avocadish,https://www.avocadish.com/,4.4,Y,N,Fast-Casual,Local,N,Y,Y,Health
+Viva Taco,http://lusandwiches.com/location/vivataco/,3.7,Y,N,Fast-Casual,Local,N,Y,Y,Latin
+Joey Meatballs,https://www.joeymeatballs.org/,4.2,Y,Y,Fast-Casual,Local,N,Y,Y,Italian
+Bagu Sushi,https://malcolmyards.market/vendor/bagu-sushi/,4.4,Y,N,Fast-Casual,Local,N,Y,Y,Asian
+Momo Dosa,https://malcolmyards.market/vendor/momo-dosa/,4.3,Y,N,Fast-Casual,Local,N,Y,Y,Asian
+Advellum,https://www.advellumvegetableeatery.com/,4.9,Y,N,Fast-Casual,Local,N,Y,Y,Health
+DelSur Empanadas,https://www.delsurempanadas.com/,4.9,Y,N,Fast-Casual,Local,N,Y,Y,Latin
+Ono Hawaiian Plates,https://onohawaiianplates.com/,4.8,Y,N,Fast-Casual,Local,N,Y,Y,Health
+Hazlewood Food + Drink,https://hazelwoodfoodanddrink.com/,4.6,Y,N,Fancy Sit-Down,Local,Y,Y,Y,American
+Demi,https://demimpls.com/,4.9,Y,N,Fancy Sit-Down,Local,N,N,Y,American
+The Butcher's Tale,https://butcherstale.com/,4.8,Y,N,Fancy Sit-Down,Local,N,N,Y,American
+The Hilltop,https://www.hilltopedina.com/,4.5,Y,N,Casual Sit-Down,Local,Y,Y,Y,American
+Tilia,https://www.tiliampls.com/,4.8,Y,N,Fancy Sit-Down,Local,Y,Y,Y,American
+Coalition Restaurant,https://coalitionrestaurant.com/,4.5,Y,N,Casual Sit-Down,Local,Y,Y,Y,American
+Borough,https://www.boroughmpls.com/,4.6,Y,Y,Fancy Sit-Down,Local,Y,Y,Y,American
+Nolo's Kitchen and Bar,https://www.noloskitchen.com/,4.4,Y,N,Casual Sit-Down,Local,Y,Y,Y,American
+Kieran's Kitchen,https://www.foodbuilding.com/browse-menu,4.8,Y,Y,Casual Sit-Down,Local,Y,Y,Y,Health
+Stanley's NE Bar Room,https://www.stanleysbarroom.com/,4.5,Y,N,Casual Sit-Down,Local,Y,Y,Y,American
+The Buttered Tin,https://www.thebutteredtin.com/,4.5,Y,N,Casual Sit-Down,Local,Y,Y,Y,American
+The Sample Room,https://the-sample-room.com/,4.6,Y,N,Casual Sit-Down,Local,Y,Y,Y,American
+Steele & Hops,https://steeleandhopsmn.com/,4.5,Y,N,Casual Sit-Down,Local,Y,Y,Y,American
+Fireside Foundry,https://firesidefoundry.com/,4.4,Y,N,Casual Sit-Down,Local,N,Y,Y,Italian
+Travail Kitchen and Amusements,https://www.travailkitchen.com/,4.8,Y,N,Fancy Sit-Down,Local,N,N,Y,American
+Alma,https://www.almampls.com/,4.6,Y,N,Fancy Sit-Down,Local,Y,Y,Y,American
+All Saints,https://allsaintsmpls.com/,4.8,Y,N,Fancy Sit-Down,Local,N,N,Y,Italian
+Cafe Alma,https://www.almampls.com/cafe/,4.6,Y,N,Casual Sit-Down,Local,N,Y,Y,American
+Sidebar at Surdyks,https://www.sidebaratsurdyks.com/,4.5,Y,N,Fancy Sit-Down,Local,N,Y,Y,Italian
+Sonder Shaker,https://www.exploretock.com/thesondershaker,4.6,Y,N,Casual Sit-Down,Local,Y,N,Y,American
+StepChld,https://www.stepchld.com/,4.5,Y,N,Casual Sit-Down,Local,N,N,Y,American
+Stray Dog,https://www.straydogmpls.com/,4.5,Y,N,Casual Sit-Down,Local,Y,Y,Y,American
+RH Rooftop,https://rh.com/minneapolis/restaurant,4.2,Y,N,Fancy Sit-Down,Local,Y,Y,Y,American
+Tenant MPLS,http://tenantmpls.com/,4.9,Y,N,Fancy Sit-Down,Local,N,N,Y,American
+Petite Leon,https://petiteleonmpls.com/,4.7,Y,N,Casual Sit-Down,Local,N,N,Y,American
+Wise Acre,https://www.wiseacreeatery.com/,4.5,Y,N,Casual Sit-Down,Local,Y,Y,Y,American
+Cafe Ceres,https://www.cafeceresmpls.com/,4.8,Y,N,Casual Sit-Down,Local,Y,Y,Y,Mediterranean
+The Block SLP,https://www.theblockslp.com/,4.5,Y,N,Casual Sit-Down,Local,Y,Y,Y,American
+Augustine's,https://augustinesmn.com/,4.5,N,Y,Casual Sit-Down,Local,Y,Y,Y,American
+Dark Horse Bar and Eatery,https://www.darkhorsebarandeatery.com/,4.4,N,Y,Casual Sit-Down,Local,N,Y,Y,American
+Hope Breakfast Bar,https://www.hopebreakfast.com/,4.5,Y,Y,Casual Sit-Down,Local,Y,Y,N,American
+Ox Cart Rooftop,http://www.oxcartarcadeandrooftop.com/,3.9,N,Y,Casual Sit-Down,Local,N,N,Y,American
+The Bungalow Club,https://www.thebungalowclubmpls.com/,4.7,Y,N,Fancy Sit-Down,Local,N,N,Y,Italian
+The Gnome Craft Pub,https://www.thegnomepub.com/,4.5,N,Y,Casual Sit-Down,Local,Y,Y,Y,American
+Cook,http://www.cookstp.com/,4.7,N,Y,Casual Sit-Down,Local,N,N,Y,American
+112 Eatery,https://www.112eatery.com/,4.7,Y,N,Fancy Sit-Down,Local,N,N,Y,American
+The Kenwood,https://www.thekenwoodrestaurant.com/,4.6,Y,N,Casual Sit-Down,Local,Y,N,Y,American
+Urban Eatery,http://www.myurbaneatery.com/,4.5,Y,N,Casual Sit-Down,Local,N,Y,Y,American
+The Copper Hen,http://www.copperhenkitchen.com/,4.3,Y,N,Casual Sit-Down,Local,Y,Y,Y,American
+The Lowry,https://www.thelowryuptown.com/,4.4,Y,N,Casual Sit-Down,Local,Y,Y,Y,American
+Martina,https://www.martinarestaurant.com/,4.7,Y,N,Fancy Sit-Down,Local,Y,Y,Y,Latin
+Estelle,https://estellestp.com/,4.9,N,Y,Fancy Sit-Down,Local,N,N,Y,Latin
+Boludo,https://www.boludo.com/,4.6,Y,N,Casual Sit-Down,Local,N,Y,Y,Latin
+Khaluna,https://khaluna.com/,4.1,Y,N,Fancy Sit-Down,Local,N,N,Y,Asian
+Moto-I,https://www.moto-i.com/,4.5,Y,N,Casual Sit-Down,Local,N,Y,Y,Asian
+George and the Dragon,https://www.ganddpub.com/,4.7,Y,N,Casual Sit-Down,Local,N,Y,Y,American
+Chip's Clubhouse,https://visitchips.com/,4.5,N,Y,Casual Sit-Down,Local,N,Y,Y,American
+Parlour,https://www.parlourbar.com/,4.6,Y,Y,Casual Sit-Down,Local,N,Y,Y,American
+Trax Burgers,https://www.traxburgersandbar.com/menu,4.7,Y,N,Casual Sit-Down,Local,N,N,Y,American
+The Unofficial,https://www.theunofficialdb.com/,4.3,Y,N,Casual Sit-Down,Local,Y,Y,Y,American
+Hideaway Burger Bar,https://hideawaycabinbar.com/,4.3,Y,N,Casual Sit-Down,Local,N,Y,Y,American
+Bull's Horn,https://www.bullshornfoodanddrink.com/,4.6,Y,N,Casual Sit-Down,Local,N,Y,Y,American
+Matt's Bar,https://mattsbar.com/,4.6,Y,N,Casual Sit-Down,Local,N,Y,Y,American
+Mr. Paul's Supper Club,https://www.mrpaulssupperclub.com/,4.7,Y,N,Fancy Sit-Down,Local,N,N,Y,American
+Revival Restaurant,https://www.revivalrestaurants.com/locations/minneapolis,4.5,Y,Y,Casual Sit-Down,Local,N,Y,Y,American
+Side Chick,https://www.sidechickmpls.com/,4,Y,N,Casual Sit-Down,Local,Y,Y,Y,American
+Zen Box Izakaya,https://www.zenbox.com/,4.5,Y,N,Casual Sit-Down,Local,N,N,Y,Asian
+Tori Ramen,https://www.toriramen.com/,4.6,Y,Y,Casual Sit-Down,Local,N,Y,Y,Asian
+JUN Szechuan Kitchen,https://junnorthloop.com/,4.2,Y,N,Casual Sit-Down,Local,N,N,Y,Asian
+Magic Noodle,https://www.magicnoodleusa.com/,4.5,N,Y,Casual Sit-Down,Local,N,N,Y,Asian
+Victor's 1959,https://www.victors1959cafe.com/,4.7,Y,N,Casual Sit-Down,Local,Y,Y,Y,American
+Cafe Lurcat,https://lurcatminneapolis.com/,4.6,Y,N,Fancy Sit-Down,Local,Y,N,Y,French
+Fhima's Minneapolis,https://fhimasmpls.com/,4.7,Y,N,Fancy Sit-Down,Local,N,N,Y,French
+Umbra,https://www.umbra.com/,4.3,Y,N,Fancy Sit-Down,Local,Y,Y,Y,French
+French Meadow,https://www.frenchmeadowcafe.com/,4.4,Y,Y,Casual Sit-Down,Local,Y,Y,Y,Health
+Spoon and Stable,https://www.spoonandstable.com/,4.7,Y,N,Fancy Sit-Down,Local,Y,N,Y,French
+Cave Vin,https://cave-vin.net/,4.7,Y,N,Fancy Sit-Down,Local,N,N,Y,French
+Saint Genevieve,https://www.stgmpls.com/,4.5,Y,N,Fancy Sit-Down,Local,Y,N,Y,French
+The Harriet Brasserie,https://www.lakeharrietbrasserie.com/,4.6,Y,N,Fancy Sit-Down,Local,Y,N,Y,French
+Meritage,https://www.meritage-stpaul.com/,4.6,N,Y,Fancy Sit-Down,Local,N,N,Y,French
+Saint Dinette,https://www.saintdinette.com/,4.6,N,Y,Fancy Sit-Down,Local,Y,N,Y,French
+Barbette,http://www.barbette.com/,4.4,Y,N,Casual Sit-Down,Local,Y,Y,Y,French
+Nightingale,http://nightingalempls.com/,4.6,Y,N,Fancy Sit-Down,Local,Y,Y,Y,French
+Lela,https://www.lelarestaurant.com/,4.3,Y,N,Fancy Sit-Down,Local,N,N,Y,Italian
+Giulia,https://www.dinegiulia.com/,4.5,Y,N,Fancy Sit-Down,Local,N,N,Y,Italian
+Monello,https://www.monellompls.com/,4.3,Y,N,Fancy Sit-Down,Local,Y,Y,Y,Italian
+Terzo,https://www.terzompls.com/,4.7,Y,N,Fancy Sit-Down,Local,N,N,Y,Italian
+Zelo,https://zelompls.com/,4.5,Y,N,Fancy Sit-Down,Local,N,Y,Y,Italian
+Josefina,https://www.josefinawayzata.com/,4.4,Y,N,Fancy Sit-Down,Local,Y,N,Y,Italian
+Mucci's,https://www.muccisitalian.com/muccis-st-paul/,4.7,Y,N,Casual Sit-Down,Local,N,N,Y,Italian
+Red Rabbit,https://www.redrabbitmn.com/,4.6,Y,Y,Casual Sit-Down,Local,N,Y,Y,Italian
+Bar La Grassa,https://www.barlagrassa.com/,4.7,Y,N,Fancy Sit-Down,Local,N,N,Y,Italian
+Arezzo Ristorante,http://arezzoristorante.com/,4.5,Y,N,Fancy Sit-Down,Local,N,N,Y,Italian
+Broders' Pasta Bar,https://www.broderspastabar.com/,4.6,Y,N,Fancy Sit-Down,Local,N,N,Y,Italian
+Italian Eatery,https://www.italianeatery.com/,4.6,Y,N,Fancy Sit-Down,Local,N,N,Y,Italian
+Prima,http://primampls.com/,4.7,Y,N,Fancy Sit-Down,Local,N,N,Y,Italian
+Carmelo's Ristorante,https://www.carmelos.com/,4.5,N,Y,Fancy Sit-Down,Local,N,N,Y,Italian
+Hyacinth,https://www.hyacinthstpaul.com/,4.7,N,Y,Fancy Sit-Down,Local,N,N,Y,Italian
+La Grolla,https://www.la-grolla.com/,4.4,N,Y,Fancy Sit-Down,Local,N,N,Y,Italian
+Due Focacceria,https://www.duefocacceria.com/,4.6,N,Y,Casual Sit-Down,Local,N,Y,Y,Italian
+Amore Uptown,https://www.amoreuptown.com/,4.3,Y,N,Casual Sit-Down,Local,Y,N,Y,Italian
+Rinata,https://rinatarestaurant.com/,4.6,Y,N,Fancy Sit-Down,Local,N,N,Y,Italian
+Kado ne Mise,https://www.kadonomise.com/,4.6,Y,N,Fancy Sit-Down,Local,N,N,Y,Asian
+Billy Sushi,https://billysushi.net/,4.5,Y,N,Fancy Sit-Down,Local,N,N,Y,Asian
+Masu Sushi,https://www.masusushiandrobata.com/,4.5,Y,N,Casual Sit-Down,Local,N,Y,Y,Asian
+Sanjusan,https://www.sanjusanrestaurant.com/,4.8,Y,N,Fancy Sit-Down,Local,N,N,Y,Asian
+Pajarito,https://edina.pajaritorestaurant.com/,4.6,Y,Y,Casual Sit-Down,Local,N,Y,Y,Latin
+Cobble Social House,https://cobblempls.com/,4.6,Y,N,Casual Sit-Down,Local,N,N,Y,Latin
+Centro,https://centrompls.com/,4.5,Y,N,Casual Sit-Down,Local,N,Y,Y,Latin
+Marna's Eatery,https://www.marnaseatery.com/,4.7,Y,N,Casual Sit-Down,Local,Y,N,Y,Latin
+Jefe Urban Cocina,https://jefeminneapolis.com/,4.4,Y,N,Casual Sit-Down,Local,N,N,Y,Latin
+Cafe Ena,http://www.cafeenampls.com/,4.6,Y,N,Fancy Sit-Down,Local,N,N,Y,Latin
+Colita,https://www.colitampls.com/,4.8,Y,N,Fancy Sit-Down,Local,N,N,Y,Latin
+El Asador,https://www.elasador612.com/,4.5,Y,N,Casual Sit-Down,Local,N,N,Y,Latin
+Hola Arepa,https://www.holaarepa.com/,4.6,Y,N,Casual Sit-Down,Local,Y,Y,Y,Latin
+Cocina Del Barrio,https://barriotequila.com/locations/edina/,4.4,Y,N,Casual Sit-Down,Local,N,Y,Y,Latin
+El Travieso Taqueria,https://www.eltraviesotaqueria.com/,4.4,Y,N,Fast-Casual,Local,N,Y,Y,Latin
+Taberna,https://www.tabernatacos.com/,4.1,Y,N,Casual Sit-Down,Local,N,Y,Y,Latin
+Olive and Lamb,https://oliveandlamb.com/,4.6,Y,N,Casual Sit-Down,Local,N,Y,Y,Mediterranean
+It's Greek to Me,https://itsgreektomempls.com/menu/,4.8,Y,N,Casual Sit-Down,Local,N,N,Y,Mediterranean
+Pizzeria Lola,https://www.pizzerialola.com/,4.7,Y,N,Casual Sit-Down,Local,N,Y,Y,Italian
+Rosalia,https://rosaliapizza.com/,4.3,Y,N,Casual Sit-Down,Local,N,Y,Y,Italian
+Young Joni,https://www.youngjoni.com/,4.7,Y,N,Fancy Sit-Down,Local,N,N,Y,Italian
+Pig Ate My Pizza,https://www.pigatemypizza.com/,4.5,Y,N,Casual Sit-Down,Local,N,Y,Y,Italian
+Tono Pizzeria + Cheesesteaks,https://tonomn.com/locations/saint-paul/,4.6,N,Y,Fast-Casual,Local,N,Y,Y,Italian
+Grand Catch,https://www.grandcatchmn.com/,4.4,N,Y,Casual Sit-Down,Local,Y,Y,Y,American
+Manny's Steakhouse,https://mannyssteakhouse.com/,4.7,Y,N,Fancy Sit-Down,Local,N,Y,Y,American
+Murray's,https://murraysrestaurant.com/,4.7,Y,N,Fancy Sit-Down,Local,N,Y,Y,American
+PS Steak,https://www.psmpls.com/,4.7,Y,N,Fancy Sit-Down,Local,N,N,Y,American
+Porterhouse,https://www.porterhousesteakandseafood.com/,4.6,Y,N,Fancy Sit-Down,Local,N,N,Y,American
+Baldamar,https://www.baldamar.com/,4.8,Y,N,Fancy Sit-Down,Local,Y,Y,Y,American
+Coconut Thai,https://www.coconutthaimn.com/,4.5,Y,Y,Casual Sit-Down,Local,N,Y,Y,Asian
+Naviya's Thai,https://naviyas.com/,4.5,Y,N,Casual Sit-Down,Local,N,Y,Y,Asian
+Pad Thai Restaurant,https://padthaisp.com/,4.3,N,Y,Casual Sit-Down,Local,N,Y,Y,Asian
+Handsome Hog,https://handsomehog.com/,4.4,N,Y,Casual Sit-Down,Local,Y,Y,Y,American
+Raag Progressive Indian,https://raagindiancuisine.com/,4.3,Y,N,Fancy Sit-Down,Local,N,N,Y,Asian
+Lat14,https://www.lat14.com/,4.4,Y,N,Casual Sit-Down,Local,N,N,Y,Asian
+Hai Hai,https://www.haihaimpls.com/,4.5,Y,N,Casual Sit-Down,Local,Y,N,Y,Asian
+Vinai,https://www.vinaimn.com/,4.5,Y,N,Fancy Sit-Down,Local,N,N,Y,Asian
+Que Viet,https://www.quevietmn.com/,4.7,Y,N,Casual Sit-Down,Local,N,Y,Y,Asian
+Sooki and Mimi,https://www.sookiandmimi.com/,4.7,Y,N,Fancy Sit-Down,Local,N,N,Y,Asian
+Bojae's Wine Bar,https://bojaes.com/,4.5,Y,N,Fancy Sit-Down,Local,N,N,Y,French
+Hi-Lo Diner,http://www.hi-lo-diner.com/,4.5,Y,N,Casual Sit-Down,Local,Y,Y,Y,American
+Betty Danger's,https://www.bettydangers.com/,4.2,Y,N,Casual Sit-Down,Local,Y,Y,Y,American
+Psycho Suzi's,https://www.psychosuzis.com/,4.2,Y,N,Casual Sit-Down,Local,N,Y,Y,American
+Hen House,https://www.henhouseeatery.com/,4.5,Y,N,Casual Sit-Down,Local,Y,Y,N,American
+Joan's in the Park,http://www.joansinthepark.com/,4.7,N,Y,Fancy Sit-Down,Local,N,N,Y,American
+Smack Shack,https://smack-shack.com/,4.5,Y,N,Casual Sit-Down,Local,N,Y,Y,American
+Salut Bar Americain,https://salutbaramericain.com/,4.3,Y,Y,Casual Sit-Down,Local,N,N,Y,French
+Punch Pizza,https://punchpizza.com/menus/,4.5,Y,Y,Fast-Casual,Local,N,Y,Y,Italian
+Panera,https://www.panerabread.com/en-us/home.html,4,Y,Y,Fast-Casual,Chain,Y,Y,Y,Health
+Tinto Kitchen,https://tintokitchen.com/,4.3,N,Y,Casual Sit-Down,Local,N,Y,Y,Latin
+Burger Moe's,https://www.burgermoes.com/,4.4,N,Y,Casual Sit-Down,Local,N,Y,Y,American
+Blue Door Pub,https://www.thebdp.com/,4.5,Y,Y,Casual Sit-Down,Local,N,Y,Y,American
+Cossetta's,https://cossettas.com/home/about-us/,4.6,N,Y,Fast-Casual,Local,N,Y,Y,Italian
+PF Chang's,https://www.pfchangs.com/,4,Y,N,Casual Sit-Down,Chain,N,Y,Y,Asian
+Buffalo Wild Wings,https://www.buffalowildwings.com/,3.5,Y,Y,Casual Sit-Down,Chain,N,Y,Y,American
+Applebees,https://www.applebees.com/en,4,Y,Y,Casual Sit-Down,Chain,N,Y,Y,American
+Chili's,https://www.chilis.com/,4,Y,Y,Casual Sit-Down,Chain,N,Y,Y,American
+Outback Steakhouse,https://outback.com,4.2,Y,Y,Casual Sit-Down,Chain,N,Y,Y,American
+Red Lobster,https://www.redlobster.com/,4.2,Y,Y,Casual Sit-Down,Chain,N,Y,Y,American
+TGI Friday's,https://www.tgifridays.com/,4,Y,Y,Casual Sit-Down,Chain,N,Y,Y,American
+Ocenaire Seafood Room,https://www.theoceanaire.com/,4.5,Y,N,Fancy Sit-Down,Chain,N,Y,Y,American
+Wing Stop,https://www.wingstop.com/,4,Y,Y,Fast-Casual,Chain,N,Y,Y,American
+Red Cow,https://redcowmn.com/,4.6,Y,Y,Casual Sit-Down,Local,Y,Y,Y,American
+Tongue in Cheek,https://www.tongueincheek.biz/index.html,4.7,N,Y,Casual Sit-Down,Local,N,Y,Y,American
+Sakura Restaurant and Bar,https://www.sakurastpaul.com/,4.5,N,Y,Casual Sit-Down,Local,N,N,Y,Asian
+Luci Ancora,http://luciancora.com/,4.6,N,Y,Casual Sit-Down,Local,N,N,Y,Italian
+The Nook,https://www.crnook.com/,4.7,N,Y,Casual Sit-Down,Local,N,Y,Y,American
+Shamrock's,https://www.crshamrocks.com/,4.5,N,Y,Casual Sit-Down,Local,N,Y,Y,American
+5-8 Club,https://www.5-8club.com/,4.4,Y,Y,Casual Sit-Down,Local,N,Y,Y,American
+Afro Deli,https://www.afrodeli.com/,4.6,Y,Y,Fast-Casual,Local,N,Y,Y,Mediterranean
+Stewart's,https://www.stewartsminnesota.com/,4.7,N,Y,Casual Sit-Down,Local,Y,Y,Y,American
+Colossal Cafe,https://colossalcafe.com/,4.6,N,Y,Casual Sit-Down,Local,Y,Y,N,American
+French Hen,https://www.frenchhencafe.com/,4.5,N,Y,Casual Sit-Down,Local,Y,Y,N,American
+DeGidio's,https://www.degidios.com/,4.6,N,Y,Casual Sit-Down,Local,N,N,Y,Italian
+Mango Thai,https://www.mangothaistpaulmn.com/,4.2,N,Y,Casual Sit-Down,Local,N,Y,Y,Asian
+Kincaid's ,https://www.kincaids.com/,4.3,N,Y,Fancy Sit-Down,Local,N,Y,Y,American
+Mancini's Char House,https://mancinis.com/,4.6,N,Y,Fancy Sit-Down,Local,N,N,Y,American
+J. Selby's,https://www.jselbys.com/,4.7,N,Y,Casual Sit-Down,Local,N,Y,Y,Health
+Yumi Japanese Restaurant and Bar,https://www.yumisushibar.com/,4.5,Y,Y,Casual Sit-Down,Local,N,Y,Y,Asian
+Foxy Falafel,https://foxyfalafel.com/,4.6,N,Y,Casual Sit-Down,Local,N,Y,Y,Mediterranean
+Olive Garden,https://www.olivegarden.com/home,4,Y,Y,Casual Sit-Down,Chain,N,Y,Y,Italian
+Capital Grille,https://www.thecapitalgrille.com/home,4.7,Y,N,Fancy Sit-Down,Chain,N,Y,Y,American
+iHOP,https://www.ihop.com/en,4,Y,Y,Casual Sit-Down,Chain,Y,Y,Y,American
+Green Mill,https://www.greenmill.com/,4,Y,Y,Casual Sit-Down,Chain,Y,Y,Y,American
+ROK Eatery,https://www.rokeatery.com/,4.7,N,Y,Fancy Sit-Down,Local,Y,Y,Y,American
